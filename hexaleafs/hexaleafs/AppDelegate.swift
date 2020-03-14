@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  hexaleafs
 //
-//  Created by Leonel Bohnet on 14.03.20.
-//  Copyright © 2020 Fabalis. All rights reserved.
 //
 
 import UIKit
